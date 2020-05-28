@@ -6,4 +6,4 @@
 
 ## [Hubitat](https://github.com/bmcgair/hassio-addons/tree/master/hubitat) [![](https://images.microbadger.com/badges/version/bmcgair/armhf-hubitat.svg)](https://microbadger.com/images/bmcgair/armhf-hubitat "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/bmcgair/armhf-hubitat.svg)](https://microbadger.com/images/bmcgair/armhf-hubitat "Get your own image badge on microbadger.com")
 
-Hubitat MQQT Bridge
+Hubitat MQTT Bridge
